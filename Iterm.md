@@ -20,3 +20,37 @@
 Comando melhor do que `rm` no terminal. 
 [link](https://github.com/sindresorhus/trash)
 `npm install --global trash-cli`
+
+
+## Delete lines, words, etc. 
+
+Preferences > Profiles > Keys
+
+Click the plus.
+move forward one word
+
+```
+option+right
+send escape
+f
+```
+
+move back one word
+```
+option+left
+send escape
+b
+```
+
+delete to beginning of word (credit)
+```
+option+delete
+send hex code
+0x1B 0x08
+```
+delete to end of word
+```
+fn+option+delete
+send escape
+d
+```
