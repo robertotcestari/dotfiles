@@ -9,5 +9,3 @@
 - Slime Theme
 - Vim
 - Vue 2 Snippets
-
-lkj
