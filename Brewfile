@@ -18,9 +18,8 @@ brew 'php@7.4'
 brew 'composer'
 brew 'mysql'
 brew 'nginx'
-brew 'node'
+brew 'nvm'
 brew 'redis'
-brew 'yarn'
 
 # Apps
 cask 'alfred'
